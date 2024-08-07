@@ -1,0 +1,7 @@
+2024-08-07 16:28:12.417 -05 [10180] LOG:  el sistema de bases de datos fue apagado en 2024-08-07 16:27:56 -05
+2024-08-07 16:28:12.463 -05 [10460] LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2024-08-07 16:54:20.233 -05 [10460] LOG:  se recibió petición de apagado rápido
+2024-08-07 16:54:20.239 -05 [10460] LOG:  abortando transacciones activas
+2024-08-07 16:54:20.257 -05 [10460] LOG:  proceso ayudante «logical replication launcher» (PID 8404) terminó con código de salida 1
+2024-08-07 16:54:20.278 -05 [13604] LOG:  apagando
+2024-08-07 16:54:20.406 -05 [10460] LOG:  el sistema de bases de datos está apagado

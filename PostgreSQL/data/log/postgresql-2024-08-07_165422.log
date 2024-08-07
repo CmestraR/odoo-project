@@ -1,0 +1,4 @@
+2024-08-07 16:54:22.854 -05 [5292] LOG:  el sistema de bases de datos fue apagado en 2024-08-07 16:54:20 -05
+2024-08-07 16:54:22.911 -05 [7684] LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2024-08-07 17:33:21.578 -05 [13140] LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10054
+2024-08-07 17:33:21.603 -05 [15308] LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10054
