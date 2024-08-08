@@ -6,6 +6,8 @@ _build/
 !.gitignore
 !.github
 !.mailmap
+
+
 # compiled python files
 *.py[co]
 __pycache__/
@@ -22,6 +24,7 @@ odoo/filestore
 odoo/addons/base/maintenance
 # window installation config file
 /odoo.conf
+/
 
 # generated for windows installer?
 install/win32/*.bat
@@ -49,3 +52,14 @@ package.json
 /man/
 /share/
 /src/
+
+# Exclude directories
+PostgreSQL/
+odoo.log/
+
+# Exlude logs
+*.log
+
+
+# Include directories
+!qr_button_gen/

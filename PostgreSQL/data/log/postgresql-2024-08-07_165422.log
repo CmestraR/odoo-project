@@ -1,0 +1,19 @@
+2024-08-07 16:54:22.854 -05 [5292] LOG:  el sistema de bases de datos fue apagado en 2024-08-07 16:54:20 -05
+2024-08-07 16:54:22.911 -05 [7684] LOG:  el sistema de bases de datos est· listo para aceptar conexiones
+2024-08-07 17:33:21.578 -05 [13140] LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10054
+2024-08-07 17:33:21.603 -05 [15308] LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10054
+2024-08-07 19:04:08.861 -05 [7684] LOG:  se recibiÛ peticiÛn de apagado r·pido
+2024-08-07 19:04:08.880 -05 [7684] LOG:  abortando transacciones activas
+2024-08-07 19:04:08.892 -05 [14116] ERROR:  cancelando la sentencia debido a una peticiÛn del usuario
+2024-08-07 19:04:08.909 -05 [15752] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:08.909 -05 [5632] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:08.911 -05 [9544] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:08.931 -05 [5284] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:08.962 -05 [6952] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:08.981 -05 [13420] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:09.009 -05 [16284] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:09.070 -05 [12344] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2024-08-07 19:04:09.099 -05 [7684] LOG:  proceso ayudante ´logical replication launcherª (PID 14116) terminÛ con cÛdigo de salida 1
+2024-08-07 19:04:09.241 -05 [2936] LOG:  apagando
+2024-08-07 19:04:09.321 -05 [11668] FATAL:  el sistema de base de datos est· apag·ndose
+2024-08-07 19:04:09.411 -05 [7684] LOG:  el sistema de bases de datos est· apagado
